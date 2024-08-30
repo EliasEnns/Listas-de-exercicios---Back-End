@@ -5,7 +5,7 @@ Bem-vindo ao meu portfólio de atividades e projetos desenvolvidos na disciplina
 ## 📝 Atividades
 
 ### 1. [🎬 Exercício 01 - Recomendador de Filmes](Exercício%2001%20Recomendador%20de%20Filmes/Recomendador_de_Filmes/src)
-Desenvolvi um sistema simples de recomendação de filmes, utilizando técnicas básicas de manipulação de dados e lógica de programação.
+Desenvolvi um sistema de recomendação de filmes que encontra os seus filmes favoritos, desde que sejam: Mazzaropi - O Jeca Macumbeiro, Ironclad, Spaceballs ou Rick and Morty.
 
 ## 📌 Observação
 Seja original! A cópia comprovada de exercícios pode resultar em desconto na nota final. Portanto, ao utilizar qualquer parte deste repositório, faça modificações que demonstrem seu entendimento e criatividade.

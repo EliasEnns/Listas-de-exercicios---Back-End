@@ -4,7 +4,7 @@ Bem-vindo ao meu portfólio de atividades e projetos desenvolvidos na disciplina
 
 ## 📝 Atividades
 
-### 1. [🎬 Exercício 01 - Recomendador de Filmes](Exercício%2001%20Recomendador%20de%20Filmes/Recomendador_de_Filmes/src)
+### 1. [🎬 Exercício 01 - Recomendador de Filmes](exercicio01/Recomendador_de_Filmes/src)
 Desenvolvi um sistema de recomendação de filmes que encontra os seus filmes favoritos, desde que sejam: Mazzaropi - O Jeca Macumbeiro, Ironclad, Spaceballs ou Rick and Morty.
 
 ## 📌 Observação

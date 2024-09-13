@@ -9,7 +9,7 @@ class PortoGrande extends BasePorto {
         if (barco.getTamanho() >= 10) {
             super.atracarBarco(barco);
         } else {
-            System.out.println(barco.getNome() + " não pode ser atracado no " + getNome() + " (tamanho menor que 10)");
+            System.out.println("Recolha-se a sua insignificância, " + barco.getNome() + ", você não é páreo para o todo-poderoso: " + getNome() + ". (tamanho menor que 10)");
         }
     }
 }

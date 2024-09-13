@@ -29,5 +29,7 @@ public class Main {
                 portoGrande.atracarBarco(barco); // Se não cabe, tenta no porto grande
             }
         }
+        // força condição em que um barco pequeno tenta atracar-se ao porto grande
+        portoGrande.atracarBarco(barco3);
     }
 }

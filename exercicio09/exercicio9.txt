@@ -1,0 +1,11 @@
+Sistemas de Detecção e Prevenção de Intrusões (IDPS): Detectam atividades suspeitas ou maliciosas na rede. Fonte: Cisco
+
+
+Protocolos de Criptografia: Protegem dados em trânsito e em repouso. Fonte: IBM
+
+
+
+
+https://www.ibm.com/br-pt/think/insights/api-security-best-practices?form=MG0AV3
+https://www.cisco.com/site/us/en/products/security/firewalls/index.html
+https://www.cloudflare.com/pt-br/learning/ddos/glossary/web-application-firewall-waf/

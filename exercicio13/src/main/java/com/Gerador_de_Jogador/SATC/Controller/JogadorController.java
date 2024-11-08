@@ -1,7 +1,7 @@
 package com.Gerador_de_Jogador.SATC.Controller;
 
-import com.Gerador_de_Jogador.DTO.JogadorDTO;
-import com.Gerador_de_Jogador.Service.JogadorService;
+import com.Gerador_de_Jogador.SATC.DTO.JogadorDTO;
+import com.Gerador_de_Jogador.SATC.Service.JogadorService;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

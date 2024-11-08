@@ -1,9 +1,9 @@
 package com.Gerador_de_Jogador.SATC.Service;
 
-import com.seuprojeto.dto.JogadorDTO;
-import com.seuprojeto.entity.Jogador;
-import com.seuprojeto.mapper.JogadorMapper;
-import com.seuprojeto.repository.JogadorRepository;
+import com.Gerador_de_Jogador.SATC.DTO.JogadorDTO;
+import com.Gerador_de_Jogador.SATC.Entity.Jogador;
+import com.Gerador_de_Jogador.SATC.Mapper.JogadorMapper;
+import com.Gerador_de_Jogador.SATC.Repository.JogadorRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

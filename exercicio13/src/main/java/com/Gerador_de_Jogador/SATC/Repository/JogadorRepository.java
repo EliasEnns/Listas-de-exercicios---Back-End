@@ -1,7 +1,9 @@
 package com.Gerador_de_Jogador.SATC.Repository;
 
-import org.springframework.data.mongodb.repository.MongoRepository;
-import com.seuprojeto.entity.Jogador;
+import org.springframework.data.jpa.repository.JpaRepository;
 
-public interface JogadorRepository extends MongoRepository<Jogador, String> {
+import com.Gerador_de_Jogador.SATC.Entity.Jogador;
+
+public interface JogadorRepository extends JpaRepository<Jogador, Long> {
+    // Custom query methods, if needed
 }
